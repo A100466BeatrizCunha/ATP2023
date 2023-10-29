@@ -1,0 +1,2 @@
+2022-1-20;<built-in function min>;<built-in function max>;0
+2022-1-21;<built-in function min>;<built-in function max>;0.2
